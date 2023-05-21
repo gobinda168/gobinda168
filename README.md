@@ -40,7 +40,7 @@
 - [How to Sort an Array of Objects by Date in JavaScript](https://medium.com/@gobinda168/how-to-sort-an-array-of-objects-by-date-in-javascript-bc7b6263bc69)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...][linkedin]
+➡️ [more blog posts...](https://www.linkedin.com/in/gobinda-das/recent-activity/shares/)
 
 ---
 
