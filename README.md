@@ -56,7 +56,6 @@
 [<img align="left" alt="gobinda | pub" width="22px" src="https://github.com/gobinda168/gobinda168/blob/main/assets/icons8-typescript.svg" />][linkedin] 
 [<img align="left" alt="gobinda | pub" width="22px" src="https://github.com/gobinda168/gobinda168/blob/main/assets/icons8-sass.svg" />][linkedin] 
 [<img align="left" alt="gobinda | pub" width="22px" src="https://github.com/gobinda168/gobinda168/blob/main/assets/nextjs.svg" />][linkedin] 
-[<img align="left" alt="gobinda | pub" width="22px" src="https://github.com/gobinda168/gobinda168/blob/main/assets/icons8-js.gif" />][linkedin] 
 [<img align="left" alt="gobinda | pub" width="22px" src="https://github.com/gobinda168/gobinda168/blob/main/assets/icons8-nodejs.svg" />][linkedin]
 [<img align="left" alt="gobinda | pub" width="22px" src="https://github.com/gobinda168/gobinda168/blob/main/assets/icons8-git.svg" />][linkedin]
 [<img align="left" alt="gobinda | pub" width="22px" src="https://github.com/gobinda168/gobinda168/blob/main/assets/icons8-react.gif" />][linkedin]
