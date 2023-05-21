@@ -12,10 +12,11 @@
 ### Me on Internet:
 
 <!-- [<img align="left" alt="gobindadas.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="JS with GD | Youtube" height="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="gobinda | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="gobinda | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="gobinda | StackOverflow" height="22px"  src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="JS with GD | Youtube" height="22px"  src="https://github.com/gobinda168/gobinda168/blob/main/assets/icons8-youtube.svg" />][youtube]
+[<img align="left" alt="gobinda | LinkedIn" width="22px" src="https://github.com/gobinda168/gobinda168/blob/main/assets/icons8-linkedin.svg" />][linkedin]
+[<img align="left" alt="gobinda | Instagram" width="22px" src="https://github.com/gobinda168/gobinda168/blob/main/assets/icons8-instagram.svg" />][instagram]
+[<img align="left" alt="gobinda | StackOverflow" height="22px"  src="https://github.com/gobinda168/gobinda168/blob/main/assets/icons8-stack-overflow.svg" />][stackoverflow]
+
 
 <br />
 <br />
@@ -49,10 +50,10 @@
 
 ### Tech Stack:
 
-[<img align="left" alt="gobinda | pub" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
-[<img align="left" alt="gobinda | pub" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][linkedin]
-[<img align="left" alt="gobinda | pub" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][linkedin]
-[<img align="left" alt="gobinda | pub" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
+[<img align="left" alt="gobinda | pub" width="22px" src="https://github.com/gobinda168/gobinda168/blob/main/assets/icons8-js.gif" />][linkedin]
+[<img align="left" alt="gobinda | pub" width="22px" src="https://github.com/gobinda168/gobinda168/blob/main/assets/icons8-react.gif" />][linkedin]
+[<img align="left" alt="gobinda | pub" width="22px" src="https://github.com/gobinda168/gobinda168/blob/main/assets/icons8-nodejs.svg" />][linkedin]
+[<img align="left" alt="gobinda | pub" width="22px" src="https://github.com/gobinda168/gobinda168/blob/main/assets/icons8-git.svg" />][linkedin]
 
 
 [website]: https://medium.com/@gobinda168
