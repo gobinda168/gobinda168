@@ -16,6 +16,8 @@
 [<img align="left" alt="gobinda | LinkedIn" width="22px" src="https://github.com/gobinda168/gobinda168/blob/main/assets/icons8-linkedin.svg" />][linkedin]
 [<img align="left" alt="gobinda | Instagram" width="22px" src="https://github.com/gobinda168/gobinda168/blob/main/assets/icons8-instagram.svg" />][instagram]
 [<img align="left" alt="gobinda | StackOverflow" height="22px"  src="https://github.com/gobinda168/gobinda168/blob/main/assets/icons8-stack-overflow.svg" />][stackoverflow]
+[<img align="left" alt="gobinda | StackOverflow" height="22px"  src="https://github.com/gobinda168/gobinda168/blob/main/assets/icons8-medium.svg" />][website]
+
 
 
 <br />
@@ -50,7 +52,8 @@
 
 ### Tech Stack:
 
-[<img align="left" alt="gobinda | pub" width="22px" src="https://github.com/gobinda168/gobinda168/blob/main/assets/icons8-js.gif" />][linkedin]
+[<img align="left" alt="gobinda | pub" width="22px" src="https://github.com/gobinda168/gobinda168/blob/main/assets/icons8-js.gif" />][linkedin] 
+
 [<img align="left" alt="gobinda | pub" width="22px" src="https://github.com/gobinda168/gobinda168/blob/main/assets/icons8-react.gif" />][linkedin]
 [<img align="left" alt="gobinda | pub" width="22px" src="https://github.com/gobinda168/gobinda168/blob/main/assets/icons8-nodejs.svg" />][linkedin]
 [<img align="left" alt="gobinda | pub" width="22px" src="https://github.com/gobinda168/gobinda168/blob/main/assets/icons8-git.svg" />][linkedin]
@@ -61,3 +64,4 @@
 [linkedin]: https://www.linkedin.com/in/gobinda-das/
 [stackoverflow]: https://stackoverflow.com/users/8086359/gobinda-das?tab=profile
 [youtube]: https://www.youtube.com/channel/UCenUowEKNRLYCbjUvH4rCQg
+[reddit]: https://www.reddit.com/user/gobinda168
