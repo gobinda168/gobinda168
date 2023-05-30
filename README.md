@@ -38,6 +38,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Sort an Array of Objects by Date in JavaScript](https://medium.com/@gobinda168/how-to-sort-an-array-of-objects-by-date-in-javascript-bc7b6263bc69)
+- [Leveling Up Your React Development with Advanced JavaScript Features](https://medium.com/@gobinda168/leveling-up-your-react-development-with-advanced-javascript-features-716fe8a044c5)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.linkedin.com/in/gobinda-das/recent-activity/shares/)
