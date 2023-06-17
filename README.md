@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=gobinda168&color=brightgreen&style=flat)
 
-- 🔭 &nbsp;&nbsp; I’m currently working on [Aptedge](https://www.aptedge.io/).
+- 🔭 &nbsp;&nbsp; I’m currently working at [Aptedge](https://www.aptedge.io/).
 - 🌱 &nbsp;&nbsp; Running a Youtube Channel and blog as [Javascript with GD](https://www.youtube.com/channel/UCenUowEKNRLYCbjUvH4rCQg).
 - 💬 &nbsp;&nbsp; Talk to me about Javascript, ReactJs, Frontend Techonologies and books.
 - 📫 &nbsp;&nbsp; Connect me: **gobinda168@gmail.com**.
